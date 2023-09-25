@@ -3,3 +3,6 @@ User Information Entry Project In React - A simple React application that allows
 
 
 ![image](https://github.com/KyEBell/UserEntryProj/assets/126792185/c2301656-dc3b-467d-84fc-d8f205e7dce7)
+
+
+![image](https://github.com/KyEBell/UserEntryProj/assets/126792185/0877c03f-6db8-454a-8802-251e38b21a85)
